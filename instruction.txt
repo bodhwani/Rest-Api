@@ -6,8 +6,7 @@ This app will give data of GOOGLE, FACEBOOK, AMAZON, MICROSOFT, CISCO, APPLE etc
 
 Name : Vinit Bodhwani
 Reg No : 15BCE0719
-github link : https://github.com/vinit321/Rest-Api
-(This is not my original account. This is only for security. Original account : username = bodhwani)
+
 heroku link : http://showrestapi.herokuapp.com/
 
 Submitted at : 27-Jan-17
